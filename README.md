@@ -1,5 +1,5 @@
 >以下是博客的搭建教程，来自FeDemo
-》》》》》》》》》》》》》》》》》》
+>》》》》》》》》》》》》》》》》》》》
 >从零开始,手把手教学,个人主页    
 >该博客模板来自<a href="https://github.com/huxpro" target="view_window">Hux</a>修改的<a href="https://startbootstrap.com/template-overviews/clean-blog/" target="view_window">Clean Blog</a>   
 >添加了搜索及Gitalk评论插件以及按时间归档   
