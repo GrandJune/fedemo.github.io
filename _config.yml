@@ -63,9 +63,9 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: '75ef4c0ecfb2cd85a8f0'    #生成的clientID
-  clientSecret: 'b51aa6b7351f3b3b7a0940714af8489fddb5f905'   #同上
-  repo: img_gitalk    #仓库名称
+  clientID: 'e4cfbfdfabb21843b46a'    #生成的clientID
+  clientSecret: '64077264f649567fa89974595bbe52c71f56c06a'   #同上
+  repo: GrandJune    #仓库名称
   owner: GrandJune    #github用户名
   admin: GrandJune
 
