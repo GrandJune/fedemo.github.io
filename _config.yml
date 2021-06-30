@@ -2,10 +2,10 @@
 title: Junyi  #你博客的标题
 SEOTitle: Junyi's blog  #显示在浏览器上搜索的时候显示的标题
 header-img: img/page-bg-keyboard.png #显示在首页的背景图片
-email: 978260577@qq.com
-description: "Hi welcom to Junee's blog! I will share " #网站介绍
-keyword: "Fe的博客,fedemo,GitHub,Fe,博客,Blog,JAVA" #关键词
-url: "https://fedemo.top"          # your host, for absolute URL
+email: junyi@comp.nus.edu.sg
+description: "Hi welcom to Junyi's blog! " #网站介绍
+keyword: "Junyi, NUS, DISA" #关键词
+url: "https://grandjune.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "blog" # you code repository
 author: Fe
@@ -63,9 +63,9 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 'e4cfbfdfabb21843b46a'    #生成的clientID
-  clientSecret: '64077264f649567fa89974595bbe52c71f56c06a'   #同上
-  repo: GrandJune    #仓库名称
+  clientID: '430c4ec7659baaefad4b'    #生成的clientID
+  clientSecret: '6d3784d79d5f7403c60156ee4ff753af43d9e6ef'   #同上
+  repo: grandjune.github.io    #仓库名称
   owner: GrandJune    #github用户名
   admin: GrandJune
 
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings 百度统计track_id
 # Baidu Analytics
-ba_track_id: c2b174747f396fdb1afb571215cc953f
+# ba_track_id: c2b174747f396fdb1afb571215cc953f
              
 
 # Google Analytics
@@ -101,7 +101,7 @@ service-worker: true
 # Friends好友链接
 friends: [
     {
-        title: "Junee Blog",
+        title: "Junyi's Blog",
         href: "https://grandjune.github.io/"
     },
 ]
